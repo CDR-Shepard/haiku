@@ -1,5 +1,3 @@
-<haiku>
-Enslaved by our screens,
-Hell's road paved with inventions,
+Enslaved by our screens,<br>
+Hell's road paved with inventions,<br>
 Lost, humanity.
-</haiku>
